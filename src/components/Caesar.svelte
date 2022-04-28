@@ -5,7 +5,7 @@
 	$: caesarCiphered = caesar(caesarMessage, caesarKey);
 </script>
 
-<h3>Caesar Cipher Encyrption</h3>
+<h3>Caesar Cipher Encryption</h3>
 <div id="caesar">
     <div>
         <label for="key">Clave para cambiar el cifrado: </label>
